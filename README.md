@@ -1,5 +1,5 @@
 # Automatic Type Writer
-Project can be view, [Click here!](https://sample-projects-hiranwj.github.io/automatic-type-writer/){:target="_blank" rel="noopener"}
+Project can be view, [Click here!](https://sample-projects-hiranwj.github.io/automatic-type-writer/)
 
 - This is a simple project of automatic type writer, using universal programming languages of HTML, CSS, JS
 
@@ -11,4 +11,4 @@ Project can be view, [Click here!](https://sample-projects-hiranwj.github.io/aut
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-Project by [@hiranwj](https://github.com/hiranwj){:target="_blank" rel="noopener"}
+Project by [@hiranwj](https://github.com/hiranwj)
